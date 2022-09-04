@@ -65,7 +65,7 @@
 //         }
 //         else
 //         {
-//             Console.Write("");
+//             Console.Write("this element is missing");
             
 //         }
 //     }
